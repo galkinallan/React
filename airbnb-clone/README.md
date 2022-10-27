@@ -1,5 +1,5 @@
 # AirBnb Clone
-Simple Static Website Using React(props)
+Simple Static Page Using React(props)
 
 ![alt tag](./airbnb.png)
 
